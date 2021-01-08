@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="kr-ko">
     <title type="text">n4oah의 개발 블로그</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-01-08T11:53:25&#43;09:00</updated>
+    <updated>2021-01-08T12:05:02&#43;09:00</updated>
     <id>https://n4oah.github.io/</id>
     <link rel="alternate" type="text/html" href="https://n4oah.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://n4oah.github.io/atom.xml" />
