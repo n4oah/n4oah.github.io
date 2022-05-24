@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://n4oah.github.io/sitemap.xml
