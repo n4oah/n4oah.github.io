@@ -9,6 +9,97 @@
       <url>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://n4oah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Jan 2021 10:53:16 +0900</lastBuildDate><atom:link href="https://n4oah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>keyword</title>
+      <link>https://n4oah.github.io/tags/keyword/</link>
+      <pubDate>Fri, 08 Jan 2021 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/keyword/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kotlin</title>
+      <link>https://n4oah.github.io/tags/kotlin/</link>
+      <pubDate>Fri, 08 Jan 2021 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kotlin object</title>
+      <link>https://n4oah.github.io/tags/kotlin-object/</link>
+      <pubDate>Fri, 08 Jan 2021 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/kotlin-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>코틀린</title>
+      <link>https://n4oah.github.io/tags/%EC%BD%94%ED%8B%80%EB%A6%B0/</link>
+      <pubDate>Fri, 08 Jan 2021 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/%EC%BD%94%ED%8B%80%EB%A6%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://n4oah.github.io/tags/c#/</link>
+      <pubDate>Wed, 24 Jun 2020 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>call by reference</title>
+      <link>https://n4oah.github.io/tags/call-by-reference/</link>
+      <pubDate>Wed, 24 Jun 2020 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/call-by-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://n4oah.github.io/tags/javascript/</link>
+      <pubDate>Wed, 24 Jun 2020 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js</title>
+      <link>https://n4oah.github.io/tags/js/</link>
+      <pubDate>Wed, 24 Jun 2020 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tail call optimization</title>
+      <link>https://n4oah.github.io/tags/tail-call-optimization/</link>
+      <pubDate>Wed, 24 Jun 2020 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/tail-call-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>꼬리물기 최적화</title>
+      <link>https://n4oah.github.io/tags/%EA%BC%AC%EB%A6%AC%EB%AC%BC%EA%B8%B0-%EC%B5%9C%EC%A0%81%ED%99%94/</link>
+      <pubDate>Wed, 24 Jun 2020 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/%EA%BC%AC%EB%A6%AC%EB%AC%BC%EA%B8%B0-%EC%B5%9C%EC%A0%81%ED%99%94/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

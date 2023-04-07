@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C# on n4oah 개발 블로그</title>
+    <link>https://n4oah.github.io/tags/c#/</link>
+    <description>Recent content in C# on n4oah 개발 블로그</description>
+    <image>
+      <title>n4oah 개발 블로그</title>
+      <url>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 Jun 2020 10:53:16 +0900</lastBuildDate><atom:link href="https://n4oah.github.io/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[C#] Call By Reference</title>
+      <link>https://n4oah.github.io/posts/c-sharp/call-by-reference/</link>
+      <pubDate>Wed, 24 Jun 2020 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/posts/c-sharp/call-by-reference/</guid>
+      <description>Call by Reference와 Call By Value C#에서 메소드를 호출할 때 파라미터 값을 넘겨야 할 때가 있습니다.
+메소드가 실행 될 때 값을 그대로 복사하여 메소드 종료 이후 stack상에서 사라지는 파라미터를 call by value, 복사가 아닌 메모리 주소가 넘겨지는 방식을 call by reference라고 합니다.
+ C언어의 포인터가 call by reference라고 보시면 이해하기 훨씬 쉽습니다.
+  Overview  Call by Reference와 Call By Value Overview C#에서의 Call By Value C#에서의 Call By Reference 만약 ref키워드가 없는 자바같은 언어라면?</description>
+    </item>
+    
+  </channel>
+</rss>

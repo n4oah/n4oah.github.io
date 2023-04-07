@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tail call optimization on n4oah 개발 블로그</title>
+    <link>https://n4oah.github.io/tags/tail-call-optimization/</link>
+    <description>Recent content in tail call optimization on n4oah 개발 블로그</description>
+    <image>
+      <title>n4oah 개발 블로그</title>
+      <url>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 24 Jun 2020 10:53:16 +0900</lastBuildDate><atom:link href="https://n4oah.github.io/tags/tail-call-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[javascript] 꼬리 물기 최적화 (Tail Call Optimization)</title>
+      <link>https://n4oah.github.io/posts/javascript/tail-call-optimization/</link>
+      <pubDate>Wed, 24 Jun 2020 10:53:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/posts/javascript/tail-call-optimization/</guid>
+      <description>꼬리 물기 최적화 (Tail Call Optimization) 함수 안에서 함수를 호출하면 호출이 된 함수에서 호출을 한 함수로 돌아오는 반환 지점을 가지고 있어야 한다.
+Tail Call Optimization는 호출을 한 함수로 돌아오지 않아도 되도록 함수 설계하여 call stack메모리를 계속 재활용 할 수 있도록 하는 것 이다.
+ 최종적으로, 마지막 호출이 된 함수가 최초로 호출 된 함수로 반환
+  조건  맨 마지막 구문에서 함수를 실행해야 함 언어 스팩상 호출을 한 함수의 stack에 메모리를 쌓지 않는 연산자는 사용 가능함   Tail Recursion 피보나치 수열 구하기 정확히 100번의 재귀호출로 피보나치 수열을 구하는 함수이다</description>
+    </item>
+    
+  </channel>
+</rss>
