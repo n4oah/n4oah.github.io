@@ -1,16 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on n4oah 개발 블로그</title>
     <link>https://n4oah.github.io/tags/</link>
     <description>Recent content in Tags on n4oah 개발 블로그</description>
-    <image>
-      <title>n4oah 개발 블로그</title>
-      <url>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Jan 2021 10:53:16 +0900</lastBuildDate><atom:link href="https://n4oah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 23:55:16 +0900</lastBuildDate><atom:link href="https://n4oah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cold sequence</title>
+      <link>https://n4oah.github.io/tags/cold-sequence/</link>
+      <pubDate>Wed, 12 Jul 2023 23:55:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/cold-sequence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hot sequence</title>
+      <link>https://n4oah.github.io/tags/hot-sequence/</link>
+      <pubDate>Wed, 12 Jul 2023 23:55:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/hot-sequence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://n4oah.github.io/tags/java/</link>
+      <pubDate>Wed, 12 Jul 2023 23:55:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reactor</title>
+      <link>https://n4oah.github.io/tags/reactor/</link>
+      <pubDate>Wed, 12 Jul 2023 23:55:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/reactor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spring</title>
+      <link>https://n4oah.github.io/tags/spring/</link>
+      <pubDate>Wed, 12 Jul 2023 23:55:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webflux</title>
+      <link>https://n4oah.github.io/tags/webflux/</link>
+      <pubDate>Wed, 12 Jul 2023 23:55:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/tags/webflux/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>keyword</title>
       <link>https://n4oah.github.io/tags/keyword/</link>

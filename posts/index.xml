@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on n4oah 개발 블로그</title>
     <link>https://n4oah.github.io/posts/</link>
     <description>Recent content in Posts on n4oah 개발 블로그</description>
-    <image>
-      <title>n4oah 개발 블로그</title>
-      <url>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://n4oah.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Jan 2021 10:53:16 +0900</lastBuildDate><atom:link href="https://n4oah.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jul 2023 23:55:16 +0900</lastBuildDate><atom:link href="https://n4oah.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Reactor] Cold Sequence와 Hot Sequence</title>
+      <link>https://n4oah.github.io/posts/spring/reactor-cold-hot-seq/</link>
+      <pubDate>Wed, 12 Jul 2023 23:55:16 +0900</pubDate>
+      
+      <guid>https://n4oah.github.io/posts/spring/reactor-cold-hot-seq/</guid>
+      <description>Cold와 Hot의 의미 https://reactivex.io/ “Hot” and “Cold” Observables에 대해 아래와 같이 설명되어 있다.
+언제 Observable이 항목 시퀀스를 방출하기 시작합니까? Observable에 따라 다릅니다. &amp;ldquo;Hot&amp;rdquo; Observable은 생성되자마자 항목을 방출하기 시작할 수 있으므로 나중에 해당 Observable에 구독하는 모든 관찰자는 시퀀스의 중간 어딘가에서 관찰을 시작할 수 있습니다. 반면에 &amp;ldquo;Cold&amp;rdquo; Observable은 관찰자가 구독하기 전까지 항목을 방출하기를 기다리므로 이러한 관찰자는 시작부터 전체 시퀀스를 볼 수 있다는 것이 보장됩니다.
+즉, Hot은 생성됨가 동시에 데이터를 방출하고, 나중에 구독한 구독자는 구독시점부터의 데이터를 받게된다.</description>
+    </item>
+    
     <item>
       <title>[Kotlin] Object 키워드 활용하기</title>
       <link>https://n4oah.github.io/posts/kotlin/kotlin-object-keyword/</link>
